@@ -1,0 +1,78 @@
+#control_panel{
+    float:left;
+    display:block;
+    width:200px;
+    height:100px;
+}
+#s{
+    float:left;
+    display:block;
+    width:850px;
+    height:100px;
+}
+#main-content{
+	display:block;
+	width:1200px;
+	margin:auto;
+	height:1000px;
+}
+#canvasdiv{
+	display:block;
+	float:left;    	
+  	width:810px;
+}
+
+#control_panel{
+	background-color:pink;
+	color:white;
+	display:block;
+	float:left;
+    font-family: Helvetica;	
+    width:150px;
+	height:600px;
+}
+#control_panel h3{
+	padding-left:10px;
+	margin:10px;
+}
+#buttons ul{
+	padding:20px;
+	list-style: none;
+}
+#buttons ul li{
+	padding:3px;width:50px;
+	height:30px;
+}
+#buttons ul li :hover{
+	background-color:pink;
+}
+#chooselevelform{
+	padding-left:5px;
+	font-size:20px;
+}
+#chooselevel{
+	background-color:#dc6a7d;
+	margin:20px;
+	margin-bottom:20px;
+}
+#buttons{
+	font-size:20px;
+	background-color:#dc6a7d;
+	margin:20px;
+	margin-bottom:20px;
+}
+#scoreb{
+	margin:20px;
+	padding:5px;
+	font-size:20px;
+	background-color:#dc6a7d;
+}
+#image_end{
+	text-align:center;
+}
+#nametext{
+    padding:10px;
+    background-color:#dc6a7d;
+    margin:20px;
+    font-size:20px;
+}
