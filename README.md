@@ -1,4 +1,4 @@
-brickbreaker
+Brick Breaker
 ============
 Bricks
 
