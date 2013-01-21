@@ -1,12 +1,21 @@
 brickbreaker
 ============
-bricks
-  there're two kinds of bricks, one can be destoried by one hit, while the other ones (with grey color) need to be hit twice.
-paddle
-	the width of the paddle differ from levels.
-ball
-	the color and speed of balls differ from levels.
-power up
-	two kinds of power up, the smily face makes the paddle longer, evil one makes the paddle shorter.
-endimage
-	when the game ends, result and score will show, also there's a picture under scoreboard will show an smily face for win, evil face for lose
+Bricks
+
+	There're two kinds of bricks, one can be destoried by one hit, while the other one (gray) need to be hit twice.
+
+Paddle
+
+	The width of the paddle differ from levels.
+
+Ball
+	
+	The color and speed of the ball differ from levels.
+
+Power-ups
+
+	Two kinds of power-ups, the smily face makes the paddle longer, evil face makes the paddle shorter.
+
+End-image
+
+	When the game ends, result and score will be shown, smily face for winning, evil face for losing.
